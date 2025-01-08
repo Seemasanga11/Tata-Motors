@@ -1,4 +1,4 @@
-# Tata Motors Dashboard
+# Tata Motors Financial Analysis
 ![Screenshot (788)](https://github.com/user-attachments/assets/6c143f1e-d483-42f4-bb4d-61c6d6385f21)
 
 
