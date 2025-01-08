@@ -1,5 +1,6 @@
 # Tata Motors Financial Analysis
-![Screenshot (788)](https://github.com/user-attachments/assets/6c143f1e-d483-42f4-bb4d-61c6d6385f21)
+![Screenshot (789)](https://github.com/user-attachments/assets/09672fde-510f-4950-80d0-21765786e0a9)
+
 
 
 
